@@ -11,6 +11,15 @@ def first_challenge
       },
       hero: {
         name: "Romeo"
+        age: "17"
+      },
+      hero_friends: {
+        [{
+          name: "Mercutio"
+          age:
+          attitude: "worried"
+        }
+        ]
       }
       }
    }

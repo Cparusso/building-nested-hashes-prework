@@ -15,7 +15,7 @@ def fourth_challenge
         status: "alive"
       },
       hero_friends: [
-        {name: "", age: "", attitude: ""},
+        {name: "Benvolio", age: "17", attitude: "worried"},
         {name: "", age: "", attitude: ""}
       ]
     },

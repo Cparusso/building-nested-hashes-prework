@@ -5,14 +5,31 @@ def third_challenge
         name: "",
         age: ""
       },
-      matriarch: {},
-      hero: {},
+      matriarch: {
+        name: "",
+        age: ""
+      },
+      hero: {
+        name: "",
+        age: "",
+        status: "alive"
+      },
       hero_friends: []
     },
     capulet: {
-      patriarch: {},
-      matriarch: {},
-      heroine: {},
+      patriarch: {
+        name: "",
+        age: ""
+      },
+      matriarch: {
+        name: "",
+        age: ""
+      },
+      heroine: {
+        name: "",
+        age: "",
+        status: "alive"
+      },
       heroine_friends: []
     }
   }

@@ -14,6 +14,11 @@ def second_challenge
           hero: {},
           hero_friends: []
         },
-        capulet: {}
+        capulet: {
+          patriarch: {},
+          matriarch: {},
+          hero: {},
+          hero_friends: []
+        }
       }
 end

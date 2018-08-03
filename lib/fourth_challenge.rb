@@ -34,7 +34,7 @@ def fourth_challenge
         status: "alive"
       },
       heroine_friends: [
-        {name: "", age: "", attitude: ""},
+        {name: "Steven", age: "30", attitude: "confused"},
         {name: "", age: "", attitude: ""}
       ]
     }
